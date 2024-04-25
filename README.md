@@ -154,7 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Princewill Mmadu- [Github](https://github.com/Blueskale)/ <br>
+Paul Sobande- [Github](https://github.com/paotec22)/ <br>
 
 
  
